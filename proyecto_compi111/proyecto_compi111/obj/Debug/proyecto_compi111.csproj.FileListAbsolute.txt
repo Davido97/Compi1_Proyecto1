@@ -1,0 +1,13 @@
+C:\Users\David\source\repos\proyecto_compi111\proyecto_compi111\obj\Debug\proyecto_compi111.csprojAssemblyReference.cache
+C:\Users\David\source\repos\proyecto_compi111\proyecto_compi111\obj\Debug\proyecto_compi111.Form1.resources
+C:\Users\David\source\repos\proyecto_compi111\proyecto_compi111\obj\Debug\proyecto_compi111.Properties.Resources.resources
+C:\Users\David\source\repos\proyecto_compi111\proyecto_compi111\obj\Debug\proyecto_compi111.csproj.GenerateResource.cache
+C:\Users\David\source\repos\proyecto_compi111\proyecto_compi111\obj\Debug\proyecto_compi111.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\proyecto_compi111\proyecto_compi111\bin\Debug\proyecto_compi111.exe.config
+C:\Users\David\source\repos\proyecto_compi111\proyecto_compi111\bin\Debug\proyecto_compi111.exe
+C:\Users\David\source\repos\proyecto_compi111\proyecto_compi111\bin\Debug\proyecto_compi111.pdb
+C:\Users\David\source\repos\proyecto_compi111\proyecto_compi111\bin\Debug\Irony.dll
+C:\Users\David\source\repos\proyecto_compi111\proyecto_compi111\bin\Debug\Irony.Interpreter.dll
+C:\Users\David\source\repos\proyecto_compi111\proyecto_compi111\obj\Debug\proyecto_compi111.csproj.CopyComplete
+C:\Users\David\source\repos\proyecto_compi111\proyecto_compi111\obj\Debug\proyecto_compi111.exe
+C:\Users\David\source\repos\proyecto_compi111\proyecto_compi111\obj\Debug\proyecto_compi111.pdb
