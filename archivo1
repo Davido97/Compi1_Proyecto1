@@ -1,0 +1,101 @@
+<configuration> 
+<background> 
+ { 
+x-nombre=fondo_2; 
+x-imagen="C:/Users/David/Downloads/fondo2.jpg"; 
+}, 
+ { 
+x-nombre=fondo_3; 
+x-imagen="C:/Users/David/Downloads/fondo3.jpg"; 
+} 
+,
+ { 
+x-nombre=fondo_4; 
+x-imagen="C:/Users/David/Downloads/fondo4.jpg"; 
+} 
+,
+ { 
+x-nombre=fondo_5; 
+x-imagen="C:/Users/David/Downloads/fondo5.jpg"; 
+} 
+</background> 
+<figure> 
+
+{
+x-nombre=MarioBros;
+x-vida=100;
+x-imagen="C:/Users/David/Downloads/fondo6.jpg"; 
+x-tipo=x-enemigo;
+x-destruir=50;
+x-descripcion="Personaje principal del juego el cual tiene como objetivo salvar a la reyna."
+},
+
+{
+x-nombre=danie;
+x-vida=100;
+x-imagen="C:/Users/David/Downloads/fondo7.jpg"; 
+x-tipo=x-heroe;
+x-descripcion="TENGO HAMBRE"
+},
+
+{
+x-nombre=david;
+x-vida=100;
+x-imagen="C:/Users/David/Downloads/fondo8.jpg"; 
+x-tipo=x-heroe;
+x-descripcion="ELLA  TE AMA"
+}
+ 
+</figure> 
+<design> 
+
+{
+x-nombre=bomba1;
+ x-destruir=20;
+x-imagen="/home/usuario/imgenes/bomba1.jpg";
+ x-tipo= x-bomba;
+ },
+{
+x-nombre=arma1;
+ x-destruir=30;
+x-imagen="/home/usuario/imgenes/arma1.jpg";
+ x-tipo= x-arma;
+},
+{
+x-nombre=salida;
+x-imagen="/home/usuario/imgenes/salida1.jpg"; 
+x-tipo=x-meta;
+}
+,
+
+
+{
+x-nombre=rosa1;
+x-imagen="/home/usuario/imgenes/rosa1.jpg"; 
+x-tipo=x-bonus;
+x-creditos=40;
+},
+
+
+{
+x-nombre=pared;
+x-imagen="/home/usuario/imgenes/pared1.jpg";
+ x-tipo=x-bloque;
+}
+
+
+
+</design> 
+</configuration> 
+
+
+
+
+
+
+
+
+
+
+
+
