@@ -11,3 +11,13 @@ C:\Users\David\source\repos\proyecto_compi111\proyecto_compi111\bin\Debug\Irony.
 C:\Users\David\source\repos\proyecto_compi111\proyecto_compi111\obj\Debug\proyecto_compi111.csproj.CopyComplete
 C:\Users\David\source\repos\proyecto_compi111\proyecto_compi111\obj\Debug\proyecto_compi111.exe
 C:\Users\David\source\repos\proyecto_compi111\proyecto_compi111\obj\Debug\proyecto_compi111.pdb
+C:\Users\ed_ci\Documents\Vacaciones Diciembre 2018\Compiladores 1\Compi1_Proyecto1\proyecto_compi111\proyecto_compi111\bin\Debug\proyecto_compi111.exe.config
+C:\Users\ed_ci\Documents\Vacaciones Diciembre 2018\Compiladores 1\Compi1_Proyecto1\proyecto_compi111\proyecto_compi111\bin\Debug\proyecto_compi111.exe
+C:\Users\ed_ci\Documents\Vacaciones Diciembre 2018\Compiladores 1\Compi1_Proyecto1\proyecto_compi111\proyecto_compi111\bin\Debug\proyecto_compi111.pdb
+C:\Users\ed_ci\Documents\Vacaciones Diciembre 2018\Compiladores 1\Compi1_Proyecto1\proyecto_compi111\proyecto_compi111\obj\Debug\proyecto_compi111.csprojResolveAssemblyReference.cache
+C:\Users\ed_ci\Documents\Vacaciones Diciembre 2018\Compiladores 1\Compi1_Proyecto1\proyecto_compi111\proyecto_compi111\obj\Debug\proyecto_compi111.Form1.resources
+C:\Users\ed_ci\Documents\Vacaciones Diciembre 2018\Compiladores 1\Compi1_Proyecto1\proyecto_compi111\proyecto_compi111\obj\Debug\proyecto_compi111.Properties.Resources.resources
+C:\Users\ed_ci\Documents\Vacaciones Diciembre 2018\Compiladores 1\Compi1_Proyecto1\proyecto_compi111\proyecto_compi111\obj\Debug\proyecto_compi111.csproj.GenerateResource.Cache
+C:\Users\ed_ci\Documents\Vacaciones Diciembre 2018\Compiladores 1\Compi1_Proyecto1\proyecto_compi111\proyecto_compi111\obj\Debug\proyecto_compi111.csproj.CoreCompileInputs.cache
+C:\Users\ed_ci\Documents\Vacaciones Diciembre 2018\Compiladores 1\Compi1_Proyecto1\proyecto_compi111\proyecto_compi111\obj\Debug\proyecto_compi111.exe
+C:\Users\ed_ci\Documents\Vacaciones Diciembre 2018\Compiladores 1\Compi1_Proyecto1\proyecto_compi111\proyecto_compi111\obj\Debug\proyecto_compi111.pdb

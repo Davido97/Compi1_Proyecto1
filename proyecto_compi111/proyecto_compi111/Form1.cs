@@ -35,6 +35,7 @@ namespace proyecto_compi111
         {
             analizarTexto(txtentrada.Text);
         }
+
         public void analizarTexto(String cadena)
         {
             if (cadena.Equals(""))
@@ -65,11 +66,7 @@ namespace proyecto_compi111
                 }
 
             }
-
-
-
-            //ErrorEjecucion errores = new ErrorEjecucion();
-            //errores.GraficarTabla(gram.lista);
+            
         }
     }
 }
